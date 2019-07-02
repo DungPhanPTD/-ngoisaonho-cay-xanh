@@ -13,8 +13,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** MySQL hostname */
-define( 'DB_NAME', 'cay_xanh
-' );
+define( 'DB_NAME', 'cay_xanh');
 /** Username của database */
 define( 'DB_USER', 'ngoisaonho' );
 /** Mật khẩu của database */
